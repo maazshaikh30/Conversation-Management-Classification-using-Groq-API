@@ -1,5 +1,4 @@
 # Conversation-Management-Classification-using-Groq-API
-# Conversation Management & Classification using Groq API
 
 ## Overview
 This repository contains a Google Colab notebook that demonstrates:
